@@ -2,7 +2,10 @@
 
 Perkenalkan nama saya **Dany Eka Saputra**.\
 
-Saat ini saya sedang mengikuti kegiatan Bangkit Batch 2 Tahun 2023.
+
+Saat ini saya Kuliah di Universitas Teknokrat Indonesia Jurusan Informatika 
+
+Saya sedang mengikuti kegiatan Bangkit Batch 2 Tahun 2023.
 
 Learning Path yang saya ikuti yaitu Machine Learning.
 
