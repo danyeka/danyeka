@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Dany Eka Saputra**.\
+Perkenalkan nama saya **Dany Eka Saputra**.
 
 
 Saat ini saya Kuliah di Universitas Teknokrat Indonesia Jurusan Informatika 
